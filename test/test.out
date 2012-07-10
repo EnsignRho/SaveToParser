@@ -1,0 +1,6 @@
+(C:14)lcTest = Hello, world!
+(N:10)lnValue = 12345
+(N:16,5)lfValue = 123.45678
+(N:13,2)lnBignum = 0.00
+(D:8)ldDate = 07/10/2012
+(T:8)ltDatetime = 07/10/2012 15:33:51.000
